@@ -2,7 +2,7 @@
 
 A Streamlit-based web application that allows users to chat with PDF documents. The app leverages Langchain, Google Generative AI, and FAISS for efficient document indexing and querying. Users can upload PDF documents, extract their contents, split them into chunks, create embeddings, and then interact with the content by asking questions.
 
-![Workflow Demo](https://drive.google.com/file/d/1L5Ao6dsEOsM2bPkaEEQOYtILNpZYaaYJ/view?usp=sharing)
+![Workflow Demo](https://drive.google.com/uc?export=view&id=1L5Ao6dsEOsM2bPkaEEQOYtILNpZYaaYJ)
 
 
 ## Features
